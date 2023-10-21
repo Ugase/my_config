@@ -1,2 +1,2 @@
-# my_config
-Just my config
+# Introduction
+Just my config for neovim using Nvchad as a starting point
