@@ -71,6 +71,9 @@ NVIM_APPNAME=Ugase/my_config/nvim nvim
 ### plugin-manager
 
 + [folke/lazy.nvim](https://dotfyle.com/plugins/folke/lazy.nvim)
+### scrollbar
+
++ [gorbit99/codewindow.nvim](https://dotfyle.com/plugins/gorbit99/codewindow.nvim)
 ### snippet
 
 + [L3MON4D3/LuaSnip](https://dotfyle.com/plugins/L3MON4D3/LuaSnip)
