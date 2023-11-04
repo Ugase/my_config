@@ -27,6 +27,7 @@ NVIM_APPNAME=Ugase/my_config/nvim nvim
 ### color
 
 + [NvChad/nvim-colorizer.lua](https://dotfyle.com/plugins/NvChad/nvim-colorizer.lua)
++ [folke/twilight.nvim](https://dotfyle.com/plugins/folke/twilight.nvim)
 ### colorscheme
 
 + [olimorris/onedarkpro.nvim](https://dotfyle.com/plugins/olimorris/onedarkpro.nvim)
@@ -44,6 +45,7 @@ NVIM_APPNAME=Ugase/my_config/nvim nvim
 + [mfussenegger/nvim-dap](https://dotfyle.com/plugins/mfussenegger/nvim-dap)
 ### editing-support
 
++ [folke/zen-mode.nvim](https://dotfyle.com/plugins/folke/zen-mode.nvim)
 + [windwp/nvim-autopairs](https://dotfyle.com/plugins/windwp/nvim-autopairs)
 + [okuuva/auto-save.nvim](https://dotfyle.com/plugins/okuuva/auto-save.nvim)
 ### fuzzy-finder
